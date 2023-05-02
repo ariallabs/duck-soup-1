@@ -1,0 +1,16 @@
+wxpython
+whisper
+openai
+pandas 
+numpy
+networkx
+matplotlib
+scipy
+torch
+transformers
+nltk
+requests
+bs4
+markdown2
+tdqm
+markdown-checklist
